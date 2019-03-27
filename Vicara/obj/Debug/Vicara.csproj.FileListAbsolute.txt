@@ -1,0 +1,17 @@
+C:\Users\SaiShan\source\repos\Vicara\Vicara\obj\Debug\Vicara.csprojAssemblyReference.cache
+C:\Users\SaiShan\source\repos\Vicara\Vicara\obj\Debug\Vicara.csproj.CoreCompileInputs.cache
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\Vicara.exe.config
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\Vicara.exe
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\Vicara.pdb
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\log4net.dll
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\Newtonsoft.Json.dll
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\SuperSocket.Common.dll
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\SuperSocket.Facility.dll
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\SuperWebSocket.dll
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\log4net.xml
+C:\Users\SaiShan\source\repos\Vicara\Vicara\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SaiShan\source\repos\Vicara\Vicara\obj\Debug\Vicara.csproj.CopyComplete
+C:\Users\SaiShan\source\repos\Vicara\Vicara\obj\Debug\Vicara.exe
+C:\Users\SaiShan\source\repos\Vicara\Vicara\obj\Debug\Vicara.pdb
