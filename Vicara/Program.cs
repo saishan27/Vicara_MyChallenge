@@ -61,7 +61,7 @@ namespace Vicara
                     int[,] C = MultiplyMatrices(Obj.input.A, Obj.input.B, ma);
                     string outmat = JsonConvert.SerializeObject(C);
                     string output = "{" +
-                        "\"success\":true" +
+                        "\"success\":true," +
                         " \"type\":\" " + matr + "\", " +
                         "\"output\":" + outmat +
                         "}";
@@ -74,7 +74,7 @@ namespace Vicara
                 {
 
                     string output = "{" +
-                           "\"success\":false" +
+                           "\"success\":false," +
                            " \"type\":\" " + matr + "\", " +
                            "\"error\":" + "\"invalidParameters\"" +
                            "}";
@@ -91,7 +91,7 @@ namespace Vicara
                 {
                     string outpu = GeneratePrimes(Obj.input.low, Obj.input.high);
                     string output = "{" +
-                            "\"success\":true" +
+                            "\"success\":true," +
                             " \"type\":\" " + prim + "\", " +
                             "\"output\":" + outpu +
                             "}";
@@ -101,7 +101,7 @@ namespace Vicara
                 else if (string.Equals(Type, prim))
                 {
                     string output = "{" +
-                          "\"success\":false" +
+                          "\"success\":false," +
                           " \"type\":\" " + prim + "\", " +
                           "\"error\":" + "\"invalidParameters\"" +
                           "}";
